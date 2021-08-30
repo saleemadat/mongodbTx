@@ -1,0 +1,11 @@
+{
+  "name": "mongodbTx",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:saleemadat/mongodbTx.git",
+  "author": "saleemadat <saleemadat@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "mongodb": "^4.1.1"
+  }
+}
