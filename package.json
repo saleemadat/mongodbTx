@@ -5,7 +5,11 @@
   "repository": "git@github.com:saleemadat/mongodbTx.git",
   "author": "saleemadat <saleemadat@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "start": "node /home/slim/Desktop/repos/saleem/Db/Mongodb/mongodbTx/index.js"
+  },
   "dependencies": {
-    "mongodb": "^4.1.1"
+    "mongodb": "^4.1.1",
+    "run-rs": "^0.7.5"
   }
 }
