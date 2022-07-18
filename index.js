@@ -20,7 +20,7 @@ async function main() {
     }
 }
 
-main().catch("########", console.error);
+main().catch(console.error);
 
 async function createReservation(client, userEmail, nameOfListing, reservationDates, reservationDetails) {
     const usersCollection = client.db("sample_airbnb").collection("users");
